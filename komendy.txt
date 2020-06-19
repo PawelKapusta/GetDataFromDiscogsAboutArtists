@@ -1,0 +1,9 @@
+javac -cp json.jar Main.java
+
+java -cp json.jar Main.java [nazwa_zespołu]
+
+lub
+
+java -cp json.jar Main.java [kod_zespołu_na_platformie_Discogs]
+
+
